@@ -1,4 +1,4 @@
-# AlgoGraphix
+# AlgoPath-Visualiser
 
 Interactive visualizer of path-finding and graph algorithms in the browser.
 
